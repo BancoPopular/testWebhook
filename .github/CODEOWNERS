@@ -1,0 +1,6 @@
+/src/* @BancoPopular/credicore-approvers
+/k8s/* @BancoPopular/credicore-approvers
+*gradle* @BancoPopular/credicore-approvers
+Jenkinsfile.yaml @BancoPopular/devops
+Jenkinsfile.yml @BancoPopular/devops
+Jenkinsfile @BancoPopular/devops

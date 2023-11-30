@@ -1,0 +1,5 @@
+repository      : 'CHANGE'
+credentials     : 'leeroy-jenkins'
+dockerImageName : 'CHANGE'
+qaJobName       : #Ruta Pruebas ejemplo = credito/credicore/notificaciones/master
+k8sConfigFile   : 'k8s/deploy.yaml'
